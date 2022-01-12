@@ -1,4 +1,4 @@
 # selenium-cucumber-ts
 selenium-cucumber-ts
 Projects done using selenium, cucumber and Jabascript/Typescript
-To run Any Project's Script just type "npm test" command and run it
+To run Any Project's Script just type "npm test" command and run it.
